@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "save-networks": "save-networks.js",
+    "load-networks": "load-networks.js"
+  }
+}
