@@ -1,4 +1,4 @@
-# truffle-save-networks-plugin
+# truffle-plugin-networks
 
 Truffle plugin for saving/loading networks info from/to artifacts.
 
