@@ -3,7 +3,7 @@
 Truffle plugin for saving/loading networks info from/to artifacts.
 
 ```sh
-npm install --save-dev truffle-save-networks-plugin
+npm install --save-dev truffle-plugin-networks
 ```
 
 To save known networks declared in `truffle-config.js` from artifacts into `networks.json`, use
